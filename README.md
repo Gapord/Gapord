@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My nickname is Gapord and I'm a python developer, from Gapord Team</p>
+<p align="center">My nickname is Gapord and I'm a python developer</p>
 
 ###
 
